@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b18e51f.chunk.css",
+    "main.js": "/static/js/main.f12e5a04.chunk.js",
+    "main.js.map": "/static/js/main.f12e5a04.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8233b8b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8233b8b5.js.map",
+    "static/js/2.7115993a.chunk.js": "/static/js/2.7115993a.chunk.js",
+    "static/js/2.7115993a.chunk.js.map": "/static/js/2.7115993a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8b18e51f.chunk.css.map": "/static/css/main.8b18e51f.chunk.css.map",
+    "static/js/2.7115993a.chunk.js.LICENSE.txt": "/static/js/2.7115993a.chunk.js.LICENSE.txt",
+    "static/media/Appstore.d0c58399.png": "/static/media/Appstore.d0c58399.png",
+    "static/media/Profile.697fdcd2.png": "/static/media/Profile.697fdcd2.png",
+    "static/media/a&s_logo.e75f014a.png": "/static/media/a&s_logo.e75f014a.png",
+    "static/media/Home.css": "/static/media/haridwar3.86d7fe09.jpg",
+    "static/media/aboutSection.css": "/static/media/haridwar4.58ed91c3.jfif",
+    "static/media/playstore.82b48319.png": "/static/media/playstore.82b48319.png",
+    "static/media/sample1.f11174c9.jpg": "/static/media/sample1.f11174c9.jpg",
+    "static/media/sample2.fc56df18.jpg": "/static/media/sample2.fc56df18.jpg",
+    "static/media/sample3.ddba3f52.jpg": "/static/media/sample3.ddba3f52.jpg",
+    "static/media/sample4.e5070fb9.jpg": "/static/media/sample4.e5070fb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8233b8b5.js",
+    "static/js/2.7115993a.chunk.js",
+    "static/css/main.8b18e51f.chunk.css",
+    "static/js/main.f12e5a04.chunk.js"
+  ]
+}
